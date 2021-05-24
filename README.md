@@ -20,3 +20,5 @@ If headless was set to true, I expect that browser UI would not be shown when ru
 5. What would your beforeAll callback look like if you wanted to start from the settings page before every test case?
 
 await page.click('header > img)'
+
+--- tests.png = screenshot of lab8.test.js results, routertests.png = screenshot of router.test.js results, sumtests.png = screenshot of sum.test.js results ---
